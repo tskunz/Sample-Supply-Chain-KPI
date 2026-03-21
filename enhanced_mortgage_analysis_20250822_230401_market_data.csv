@@ -1,0 +1,7 @@
+data_type,rate_type,value,source,date,lender,points,timeframe,direction,confidence,summary
+rate,30-year,0.0664,Bankrate,2025-08-22,,,,,,
+rate,15-year,0.0582,Bankrate,2025-08-22,,,,,,
+rate,30-year,0.057800000000000004,Bankrate,2025-08-22,,,,,,
+forecast,forecast,,MBA,2025-08-22,,,next_6_months,stable,medium,MBA quarterly forecast analysis
+forecast,forecast,,Fannie Mae,2025-08-22,,,next_year,stable,high,Fannie Mae housing and mortgage market forecast
+forecast,forecast,,Mortgage Professional America,2025-08-22,,,next_3_months,stable,medium,Industry experts expect rates to remain relatively stable

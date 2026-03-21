@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Build output
+dist/
+build/
+.next/
+
+# Data files (large — don't read into context)
+data/*.db
+data/*.sqlite
+data/*.csv
+*.json.bak
+
+# Media
+*.png
+*.jpg
+*.jpeg
+*.mp4
+*.mov
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
